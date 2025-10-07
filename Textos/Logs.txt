@@ -1,0 +1,14 @@
+ESTE ES UN REGISTRO DE ACTIVIDADES
+==================================
+Autor: Omar Hazael Garcia Morfin
+Fecha: 2025-10-02
+
+Resultados:
+
+19:52 Creacion de Log
+11:47 Creacion de pares.py
+12:09 Creacion de Histograma.py
+12:47 Modificacion de Histograma.py
+10:45 Creacion de res_estadisticos.py
+10:45 Creacion de primos.py
+10:45 Creacion de saludo.py
